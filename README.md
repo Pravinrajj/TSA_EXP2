@@ -1,7 +1,6 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date: 25-08-24
 ### AIM:
-To Implement Linear and Polynomial Trend Estiamtion Using Python.
+To Implement Linear and Polynomial Trend Estiamtion in XAUUAE Using Python.
 
 ### ALGORITHM:
 Import necessary libraries (NumPy, Matplotlib)
@@ -64,4 +63,4 @@ B- POLYNOMIAL TREND ESTIMATION
 ![image](https://github.com/user-attachments/assets/e0d5955b-468b-44a3-97eb-79eb5e3c4213)
 
 ### RESULT:
-Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
+Thus the python program for linear and Polynomial Trend Estiamtion in XAUUAE has been executed successfully.
